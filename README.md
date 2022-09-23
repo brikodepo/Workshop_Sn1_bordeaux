@@ -28,6 +28,7 @@ Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/ecollum) dans Arduino
 
 - faite le montage comme si dessus
 ![montage arduino](https://user-images.githubusercontent.com/89474293/192006882-d2323c27-a2ad-4814-84e4-723b7f64150f.png)
+![montage arduino sheet](https://user-images.githubusercontent.com/89474293/192007274-1febec51-7df4-49d0-b350-a4645d45d7e6.png)
 
 
 ### Impression 3D
