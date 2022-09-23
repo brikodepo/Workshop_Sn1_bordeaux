@@ -24,7 +24,7 @@ Au niveau logiciel, il va vous falloir :
 
 ### Arduino 
 
-Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/ecollum) dans Arduino IDE, puis après avoir branché l'arduino, televerser le code dans la carte.
+Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/Workshop-Sn1-bordeaux) dans Arduino IDE, puis après avoir branché l'arduino, televerser le code dans la carte.
 
 - faite le montage comme si dessus
 ![Montage arduino](https://user-images.githubusercontent.com/89474293/192008546-240a6279-c830-45c2-b384-8c780521d902.png)
@@ -33,7 +33,7 @@ Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/ecollum) dans Arduino
 
 ### Impression 3D
 
-Grâce à une des imprimante 3D mise à disposition dans l'école ouvrez [ecollum/Boîte 3D](https://github.com/brikodepo/ecollum) et [ecollum/Couvercle 3D](https://github.com/brikodepo/ecollum)
+Grâce à une des imprimante 3D mise à disposition dans l'école ouvrez [ecollum/Boîte 3D](https://github.com/brikodepo/ecollum) et [ecollum/Couvercle 3D](https://github.com/brikodepo/Workshop-Sn1-bordeaux)
 
 
 ![Photo imprimante 3D](https://user-images.githubusercontent.com/89474293/192009839-42cee253-a6f1-4a40-8b46-f779b566269d.png)
@@ -45,4 +45,4 @@ Merci de nous avoir fait confiance.
 
 
 ## Ecollum Corporate
-Constant, Rezé, Claverie, Roupert, Ressiot, Letullier
+Constant, Rezé, Claverie, Roupert, Ressiot et Letullier
