@@ -41,7 +41,7 @@ Grâce à une des imprimante 3D mise à disposition dans l'école ouvrez [ecollu
 ![Photo imprimante 3D 3](https://user-images.githubusercontent.com/89474293/192009825-9d6d7f77-24c7-4a0c-9df5-5f6c828fe1c8.png)
 
 Vous n'avez plus qu'à tout monter le brancher et profitez de l'utilisation !
-Merci de nous avoir fait confiance et  a bientôt
+Merci de nous avoir fait confiance et  à bientôt
 
 
 ## Ecollum Corporate
