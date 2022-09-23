@@ -26,8 +26,8 @@ Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/Workshop-Sn1-bordeaux
 
 - faite le montage comme si dessus
 
-![Montage arduino](https://user-images.githubusercontent.com/89474293/192008546-240a6279-c830-45c2-b384-8c780521d902.png)
-![Montage arduino sheet](https://user-images.githubusercontent.com/89474293/192008542-0e5998ad-59f4-4453-8a32-5c695b499e3a.png)
+![Montage arduino](https://user-images.githubusercontent.com/89474293/192058498-30b2fa4a-0e72-4b9d-8754-79db1195700e.png)
+![Montage arduino sheet](https://user-images.githubusercontent.com/89474293/192058508-0a4c22bc-e25e-46dd-af66-0cd1704c675d.png)
 
 
 ### Impression 3D
