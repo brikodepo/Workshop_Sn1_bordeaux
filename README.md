@@ -22,7 +22,7 @@ Au niveau logiciel, il va vous falloir :
 
 Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/Workshop-Sn1-bordeaux) dans Arduino IDE, puis après avoir branché l'arduino, televerser le code dans la carte.
 
-#### Montage
+### Montage
 
 - faite le montage comme si dessus
 
