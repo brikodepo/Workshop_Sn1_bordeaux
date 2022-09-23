@@ -1,5 +1,5 @@
 # ecollum
-https://www.youtube.com/watch?v=LzlV517aC5k + 
+https://youtu.be/Geyf825Q-yI + https://youtu.be/9EluYUDu_iw
 ## Mise en place
 
 ### Materiel
