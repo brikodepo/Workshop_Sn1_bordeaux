@@ -11,10 +11,6 @@ https://youtu.be/Geyf825Q-yI + https://youtu.be/9EluYUDu_iw
 - bread board
 - câble pour connecter le tout
 
-### Montage
-
-*todo*
-
 ### Software
 
 Au niveau logiciel, il va vous falloir :
@@ -26,7 +22,10 @@ Au niveau logiciel, il va vous falloir :
 
 Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/Workshop-Sn1-bordeaux) dans Arduino IDE, puis après avoir branché l'arduino, televerser le code dans la carte.
 
+#### Montage
+
 - faite le montage comme si dessus
+
 ![Montage arduino](https://user-images.githubusercontent.com/89474293/192008546-240a6279-c830-45c2-b384-8c780521d902.png)
 ![Montage arduino sheet](https://user-images.githubusercontent.com/89474293/192008542-0e5998ad-59f4-4453-8a32-5c695b499e3a.png)
 
