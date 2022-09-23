@@ -25,3 +25,8 @@ Au niveau logiciel, il va vous falloir :
 ### Arduino 
 
 Ouvrez [ecollum/code_arduino](https://github.com/brikodepo/ecollum) dans Arduino IDE, puis après avoir branché l'arduino, televerser le code dans la carte.
+
+
+### Impression 3D
+
+Grâce à une des imprimante 3D mise à disposition dans l'école ouvrez [ecollum/Boîte 3D](https://github.com/brikodepo/ecollum) et [ecollum/Couvercle 3D](https://github.com/brikodepo/ecollum)
